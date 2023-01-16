@@ -27,3 +27,6 @@ npx expo start
 ```
 6. Open the app on your emulator or on your device using the [Expo app](https://apps.apple.com/app/apple-store/id982107779) (make sure you're on the same network),
 for debugging hit "J" in terminal to use [Hermes](https://hermesengine.dev/)
+
+Edit: Also I can't recomend this extension enough [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) for VS Code, as someone who is tired of polluted className(s) in jsx
+
